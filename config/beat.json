@@ -1,0 +1,15 @@
+{
+    "pdfkit_location":"E:\\wkhtmltopdf\\bin\\wkhtmltopdf.exe",
+    "start_address": "Dardignac 28, Recoleta",
+    "end_address": "General Mackenna 1331, Santiago",
+    "round_trip": true,
+    "start_amt": 2000,
+    "back_amt": 2800,
+    "go_time": "08:20",
+    "back_time": "23:29",
+    "interval": 50,
+    "interval_min": 40,
+    "start_date": "20190401",
+    "end_date": "20190922",
+    "skip_weekend": true
+}

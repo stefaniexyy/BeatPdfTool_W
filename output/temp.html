@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+        <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+            <title>mybeat</title>
+            <style>
+                body {
+                    background-color: white;
+                }
+                * {
+                    font-family: Helvetica, Arial, sans-serif;
+                    color: #262626;
+                }
+                main {
+                    margin: 20px auto 0;
+                    max-width: 400px;
+                    padding: 16px 30px 40px;
+                    border-radius: 5px;
+                    border: 1px #CCC solid;
+                    box-sizing: border-box;
+                }
+                h1 {
+                    margin: 0;
+                }
+                h2 {
+                    font-size: 16px;
+                    border-bottom: 1px black solid;
+                    padding-bottom: 5px;
+                }
+                hr {
+                    border-color: #EEE;
+                    margin: 10px 0;
+                }
+                label {
+                    margin: 0;
+                    font-weight: lighter;
+                }
+                label, .details-text, .payment-text {
+                    font-size: 12px;
+                }
+                pre {
+                    width: 340px;
+                    margin: 20px auto;
+                    font-family: Helvetica, Arial, sans-serif;
+                    font-size: 7px;
+                    color: #262626;
+                }
+                .logo {
+                    max-width: 120px;
+                    display: block;
+                    margin-bottom: 30px;
+                }
+                .details {
+                    margin-top: 30px;
+                }
+
+                .details-text {
+                    font-weight: bold;
+                }
+                .payment-text {
+                    float: right;
+                    clear: right;
+                    text-align: right;
+                    font-weight: bold;
+                }
+                .clearfix:after {
+                    content: " ";
+                    display: table;
+                }
+                .clearfix:before {
+                    content: " ";
+                    display: table;
+                }
+                @media only screen and (max-width: 420px) {
+                    main {
+                        margin-top: 0;
+                    }
+                }
+            </style>
+        </head>
+        <body>
+        <main>
+            <header>
+                <img class="logo" src="../bin/logo.png" alt="Taxibeat">
+            </header>
+            <section class="payment">
+                <header>
+                    <h2>Ride Receipt</h2>
+                </header>
+                <div>
+                    <label>Payment</label>
+                    <div class="payment-text">
+                            Cash
+                    </div>
+                </div>
+                <hr>
+                <div class="clearfix">
+                    <label>Total Fare</label>
+                    <div class="payment-text">$2,826</div>
+                </div>
+            </section>
+            <section class="details">
+                <header>
+                    <h2>Ride Summary</h2>
+                </header>
+                <label>Date &amp; Time</label>
+                <div class="details-text">
+                    <time datetime="2019-10-19 13:57:49">06/05/2019 12:03:00</time>
+                </div>
+                <hr>
+                <label>Pickup Address</label>
+                <div class="details-text">General Mackenna 1331, Santiago</div>
+                    <hr>
+                    <label>Drop-off Address</label>
+                    <div class="details-text">Dardignac 28, Recoleta</div>
+                <hr>
+                <label>Driver</label>
+                <div class="details-text">Immanuel Alamillo Baca</div>
+                    <hr>
+                    <label>Car</label>
+                    <div class="details-text">Hyundai,Grand i10 2019</div>
+                    <hr>
+                    <label>License Plates</label>
+                    <div class="details-text">CZWG252</div>
+            </section>
+        </main>
+        </body></html>
