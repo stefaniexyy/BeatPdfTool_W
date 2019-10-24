@@ -9,8 +9,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="111.files/filelist.xml">
-<link rel=Edit-Time-Data href="111.files/editdata.mso">
+<link rel=File-List href="readme.files/filelist.xml">
+<link rel=Edit-Time-Data href="readme.files/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -22,28 +22,26 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>ÑóÑî ÞÉ</o:Author>
   <o:LastAuthor>ÑóÑî ÞÉ</o:LastAuthor>
-  <o:Revision>1</o:Revision>
-  <o:TotalTime>16</o:TotalTime>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>20</o:TotalTime>
   <o:Created>2019-10-23T15:50:00Z</o:Created>
-  <o:LastSaved>2019-10-23T16:06:00Z</o:LastSaved>
-  <o:Pages>2</o:Pages>
-  <o:Words>151</o:Words>
-  <o:Characters>867</o:Characters>
-  <o:Lines>7</o:Lines>
+  <o:LastSaved>2019-10-24T13:02:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>169</o:Words>
+  <o:Characters>964</o:Characters>
+  <o:Lines>8</o:Lines>
   <o:Paragraphs>2</o:Paragraphs>
-  <o:CharactersWithSpaces>1016</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>1131</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=themeData href="111.files/themedata.thmx">
-<link rel=colorSchemeMapping href="111.files/colorschememapping.xml">
+<link rel=themeData href="readme.files/themedata.thmx">
+<link rel=colorSchemeMapping href="readme.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
@@ -76,6 +74,7 @@ w\:* {behavior:url(#default#VML);}
    <w:OverrideTableStyleHps/>
    <w:UseFELayout/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -298,6 +297,8 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="HTML Variable"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="annotation subject"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="No List"/>
@@ -388,10 +389,14 @@ w\:* {behavior:url(#default#VML);}
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Table Web 1"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Table Web 3"/>
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Balloon Text"/>
   <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
   <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
   <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
   <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
@@ -741,8 +746,52 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;}
-a:link, span.MsoHyperlink
+p.MsoHeader, li.MsoHeader, div.MsoHeader
 	{mso-style-priority:99;
+	mso-style-link:"Ò³Ã¼ ×Ö·û";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	border:none;
+	mso-border-bottom-alt:solid windowtext .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 1.0pt 0cm;
+	font-size:9.0pt;
+	font-family:µÈÏß;
+	mso-ascii-font-family:µÈÏß;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:µÈÏß;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:µÈÏß;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-priority:99;
+	mso-style-link:"Ò³½Å ×Ö·û";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:µÈÏß;
+	mso-ascii-font-family:µÈÏß;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:µÈÏß;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:µÈÏß;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
 	color:#0563C1;
 	mso-themecolor:hyperlink;
 	text-decoration:underline;
@@ -754,19 +803,107 @@ a:visited, span.MsoHyperlinkFollowed
 	mso-themecolor:followedhyperlink;
 	text-decoration:underline;
 	text-underline:single;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Åú×¢¿òÎÄ±¾ ×Ö·û";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:9.0pt;
+	font-family:µÈÏß;
+	mso-ascii-font-family:µÈÏß;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:µÈÏß;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:µÈÏß;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:1.0pt;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:ËÎÌå;
+	mso-bidi-font-family:ËÎÌå;}
+span.a
+	{mso-style-name:"Ò³Ã¼ ×Ö·û";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Ò³Ã¼;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:µÈÏß;
+	mso-ascii-font-family:µÈÏß;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:µÈÏß;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:µÈÏß;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;}
+span.a0
+	{mso-style-name:"Ò³½Å ×Ö·û";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Ò³½Å;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:µÈÏß;
+	mso-ascii-font-family:µÈÏß;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:µÈÏß;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:µÈÏß;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;}
+span.a1
+	{mso-style-name:"Åú×¢¿òÎÄ±¾ ×Ö·û";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Åú×¢¿òÎÄ±¾;
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:µÈÏß;
+	mso-ascii-font-family:µÈÏß;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:µÈÏß;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:µÈÏß;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
 	font-family:µÈÏß;
+	mso-ascii-font-family:µÈÏß;
+	mso-fareast-font-family:µÈÏß;
+	mso-hansi-font-family:µÈÏß;
 	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
+	mso-bidi-theme-font:minor-bidi;
+	mso-font-kerning:0pt;}
  /* Page Definitions */
  @page
 	{mso-page-border-surround-header:no;
-	mso-page-border-surround-footer:no;}
+	mso-page-border-surround-footer:no;
+	mso-footnote-separator:url("readme.files/header.htm") fs;
+	mso-footnote-continuation-separator:url("readme.files/header.htm") fcs;
+	mso-endnote-separator:url("readme.files/header.htm") es;
+	mso-endnote-continuation-separator:url("readme.files/header.htm") ecs;}
 @page WordSection1
 	{size:595.3pt 841.9pt;
 	margin:72.0pt 90.0pt 72.0pt 90.0pt;
@@ -792,19 +929,11 @@ div.WordSection1
 	mso-para-margin:0cm;
 	mso-para-margin-bottom:.0001pt;
 	mso-pagination:widow-orphan;
-	font-size:10.5pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:µÈÏß;
-	mso-ascii-font-family:µÈÏß;
-	mso-ascii-theme-font:minor-latin;
-	mso-fareast-font-family:µÈÏß;
-	mso-fareast-theme-font:minor-fareast;
-	mso-hansi-font-family:µÈÏß;
-	mso-hansi-theme-font:minor-latin;
-	mso-font-kerning:1.0pt;}
+	font-size:10.0pt;
+	font-family:µÈÏß;}
 </style>
 <![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1026"/>
+ <o:shapedefaults v:ext="edit" spidmax="2049"/>
 </xml><![endif]--><!--[if gte mso 9]><xml>
  <o:shapelayout v:ext="edit">
   <o:idmap v:ext="edit" data="1"/>
@@ -842,67 +971,63 @@ text-justify-trim:punctuation'>
  <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype><v:shape id="Í¼Æ¬_x0020_1" o:spid="_x0000_i1028" type="#_x0000_t75"
  style='width:415.8pt;height:15.6pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="111.files/image001.png" o:title=""/>
+ <v:imagedata src="readme.files/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=554 height=21
-src="111.files/image002.jpg" v:shapes="Í¼Æ¬_x0020_1"><![endif]></span></p>
+src="readme.files/image002.jpg" v:shapes="Í¼Æ¬_x0020_1"><![endif]></span></p>
 
 <p class=MsoNormal>ÐèÒª°²×°</p>
 
 <p class=MsoNormal align=left style='text-align:left;line-height:14.25pt;
 mso-pagination:widow-orphan;background:white'><span style='color:black;
-mso-color-alt:windowtext'>°²×°</span><span class=SpellE><span lang=EN-US
+mso-color-alt:windowtext'>°²×°</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
+ËÎÌå;color:#A31515;mso-font-kerning:0pt'>wkhtmltopdf</span><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>wkhtmltopdf</span></span><span
-lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US><a
 href="https://wkhtmltopdf.org/downloads.html">https://wkhtmltopdf.org/downloads.html</a></span></p>
 
 <p class=MsoNormal>°²×°<span lang=EN-US style='font-family:"Helvetica",sans-serif;
-color:#222222;background:white'>Bleeding Edge</span><o:p></o:p></span></p>
+color:#222222;background:white'>Bleeding Edge</span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Í¼Æ¬_x0020_2" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:415.2pt;
  height:240.6pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="111.files/image003.png" o:title=""/>
+ <v:imagedata src="readme.files/image003.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=554 height=321
-src="111.files/image004.jpg" v:shapes="Í¼Æ¬_x0020_2"><![endif]></span></p>
+src="readme.files/image004.jpg" v:shapes="Í¼Æ¬_x0020_2"><![endif]></span></p>
 
-<p class=MsoNormal>È»ºó´ò¿ª<span class=SpellE><span lang=EN-US>powershell</span></span><span
-lang=EN-US> </span>°²×°<span lang=EN-US>python</span>Ä£¿é</p>
+<p class=MsoNormal>È»ºó´ò¿ª<span lang=EN-US>powershell </span>°²×°<span lang=EN-US>python</span>Ä£¿é</p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Í¼Æ¬_x0020_3" o:spid="_x0000_i1026" type="#_x0000_t75" style='width:310.8pt;
  height:58.8pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="111.files/image005.png" o:title=""/>
+ <v:imagedata src="readme.files/image005.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=414 height=78
-src="111.files/image005.png" v:shapes="Í¼Æ¬_x0020_3"><![endif]></span></p>
+src="readme.files/image005.png" v:shapes="Í¼Æ¬_x0020_3"><![endif]></span></p>
 
 <p class=MsoNormal align=left style='text-align:left;line-height:14.25pt;
 mso-pagination:widow-orphan;background:white'><span style='color:black;
-mso-color-alt:windowtext'>ÊäÈë <span lang=EN-US>pip install </span></span><span
-class=SpellE><span lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:
-Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;
-mso-font-kerning:0pt'>openpyxl</span></span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+mso-color-alt:windowtext'>ÔÚ<span lang=EN-US>powershel</span>ÖØÊäÈë<span
+lang=EN-US>:</span></span></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:21.0pt;
+line-height:14.25pt;mso-pagination:widow-orphan;background:white'><span
+lang=EN-US style='color:black;mso-color-alt:windowtext'>pip install </span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>openpyxl<o:p></o:p></span></p>
 
 <p class=MsoNormal align=left style='text-align:left;line-height:14.25pt;
 mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='color:black;mso-color-alt:windowtext'><span
-style='mso-spacerun:yes'>&nbsp;</span><span
-style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>pip <span class=SpellE>insall</span>
-</span><span class=SpellE><span lang=EN-US style='mso-bidi-font-size:10.5pt;
-font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
-color:black;mso-font-kerning:0pt'>pdfkit</span></span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>pip insall </span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>pdfkit<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal>ÐÞ¸Ä<span lang=EN-US>config</span>ÏÂµÄ<span class=SpellE><span
-lang=EN-US>beat.json</span></span></p>
+<p class=MsoNormal>ÐÞ¸Ä<span lang=EN-US>config</span>ÏÂµÄ<span lang=EN-US>beat.json</span></p>
 
 <p class=MsoNormal align=left style='text-align:left;line-height:14.25pt;
 mso-pagination:widow-orphan;background:white'><span lang=EN-US
@@ -914,11 +1039,11 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>pdfkit_location&quot;<span style='color:black'>:</span><span
-style='color:#A31515'>&quot;E</span></span></span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>:</span><span
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;pdfkit_location&quot;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>:</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>&quot;E:</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:red;mso-font-kerning:0pt'>\\</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
@@ -939,13 +1064,11 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>start_address</span>&quot;</span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;start_address&quot;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>Dardignac</span>&nbsp;28,&nbsp;<span class=SpellE>Recoleta</span>&quot;</span><span
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>&quot;Dardignac&nbsp;28,&nbsp;Recoleta&quot;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>,<o:p></o:p></span></p>
 
@@ -954,13 +1077,11 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>end_address</span>&quot;</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>&quot;General&nbsp;<span
-class=SpellE>Mackenna</span>&nbsp;1331,&nbsp;Santiago&quot;</span><span
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;end_address&quot;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>&quot;General&nbsp;Mackenna&nbsp;1331,&nbsp;Santiago&quot;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>,<o:p></o:p></span></p>
 
@@ -969,11 +1090,10 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>round_trip</span>&quot;</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;round_trip&quot;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:blue;mso-font-kerning:0pt'>true</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>,<o:p></o:p></span></p>
@@ -983,11 +1103,10 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>start_amt</span>&quot;</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;start_amt&quot;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#09885A;mso-font-kerning:0pt'>2000</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>,<o:p></o:p></span></p>
@@ -997,11 +1116,10 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>back_amt</span>&quot;</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;back_amt&quot;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#09885A;mso-font-kerning:0pt'>2800</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>,<o:p></o:p></span></p>
@@ -1011,11 +1129,10 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>go_time</span>&quot;</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;go_time&quot;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>&quot;08:20&quot;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>,<o:p></o:p></span></p>
@@ -1025,11 +1142,10 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>back_time</span>&quot;</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;back_time&quot;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>&quot;23:29&quot;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>,<o:p></o:p></span></p>
@@ -1052,11 +1168,10 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>interval_min</span>&quot;</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;interval_min&quot;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#09885A;mso-font-kerning:0pt'>40</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>,<o:p></o:p></span></p>
@@ -1066,11 +1181,10 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>start_date</span>&quot;</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;start_date&quot;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>&quot;20190401&quot;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>,<o:p></o:p></span></p>
@@ -1080,11 +1194,10 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>end_date</span>&quot;</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;end_date&quot;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>&quot;20190922&quot;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>,<o:p></o:p></span></p>
@@ -1094,11 +1207,10 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>&nbsp;&nbsp;&nbsp;&nbsp;</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;<span
-class=SpellE>skip_weekend</span>&quot;</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>&quot;skip_weekend&quot;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>:&nbsp;</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:blue;mso-font-kerning:0pt'>true</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
@@ -1108,88 +1220,92 @@ mso-pagination:widow-orphan;background:white'><span lang=EN-US
 style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:black;mso-font-kerning:0pt'>}<o:p></o:p></span></p>
 
-<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-bidi-font-size:
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'>pdfkit_location:</span><span lang=EN-US
+style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'> wkhtmltopdf</span><span
+style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
+mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#A31515;
+mso-font-kerning:0pt'>°²×°µÄÂ·¾¶</span><span lang=EN-US style='mso-bidi-font-size:
 10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>pdfkit_location</span></span><span
+ËÎÌå;color:#A31515;mso-font-kerning:0pt'>,</span><span style='mso-bidi-font-size:
+10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
+Consolas;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>×¢Òâ</span><span
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>:</span><span
-lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'> <span
-class=SpellE>wkhtmltopdf</span></span><span style='mso-bidi-font-size:10.5pt;
-font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:Consolas;
-mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>°²×°µÄÂ·¾¶</span><span
-lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>\\</span><span
+style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
+mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#A31515;
+mso-font-kerning:0pt'>ÊÇ</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#A31515;mso-font-kerning:0pt'>\</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
+ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Í¼Æ¬_x0020_4" o:spid="_x0000_i1025" type="#_x0000_t75" style='width:415.2pt;
  height:81pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="111.files/image006.png" o:title=""/>
+ <v:imagedata src="readme.files/image006.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=554 height=108
-src="111.files/image007.jpg" v:shapes="Í¼Æ¬_x0020_4"><![endif]></span></p>
+src="readme.files/image007.jpg" v:shapes="Í¼Æ¬_x0020_4"><![endif]></span></p>
 
-<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>start_address</span></span><span
-style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
-mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;
-mso-font-kerning:0pt'>£º</span><span style='mso-bidi-font-size:10.5pt;
-font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:Consolas;
-mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'>×¡Ö·</span><span
-lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#A31515;mso-font-kerning:0pt'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>round_trip</span></span><span
-style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
-mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;
-mso-font-kerning:0pt'>£ºÊÇ·ñÐèÒª·µ³Ì</span><span style='mso-bidi-font-size:10.5pt;
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
 font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
-color:#0451A5;mso-font-kerning:0pt'> </span><span style='mso-bidi-font-size:
+color:#0451A5;mso-font-kerning:0pt'>start_address</span><span style='mso-bidi-font-size:
 10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
-Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>ÊÇ£º</span><span
-lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>true </span><span
+Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>£º</span><span
 style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
-mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;
-mso-font-kerning:0pt'>·ñ</span><span style='mso-bidi-font-size:10.5pt;
+mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#A31515;
+mso-font-kerning:0pt'>×¡Ö·</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
 font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
-color:#0451A5;mso-font-kerning:0pt'> <span lang=EN-US>false<o:p></o:p></span></span></p>
+color:#A31515;mso-font-kerning:0pt'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>start_amt</span></span><span
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'>round_trip</span><span style='mso-bidi-font-size:
+10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
+Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>£ºÊÇ·ñÐèÒª·µ³Ì</span><span
+style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'> </span><span
 style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
 mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;
-mso-font-kerning:0pt'>£ºÈ¥³Ì½ð¶î</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
+mso-font-kerning:0pt'>ÊÇ£º</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'>true </span><span style='mso-bidi-font-size:
+10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
+Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>·ñ</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'> false<o:p></o:p></span></p>
 
-<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>back_amt</span></span><span
-style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
-mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;
-mso-font-kerning:0pt'>£º·µ³Ì½ð¶î</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'>start_amt</span><span style='mso-bidi-font-size:
+10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
+Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>£ºÈ¥³Ì½ð¶î</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>go_time</span></span><span
-style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
-mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;
-mso-font-kerning:0pt'>£ºÈ¥³ÌÊ±¼ä</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'>back_amt</span><span style='mso-bidi-font-size:
+10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
+Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>£º·µ³Ì½ð¶î</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>back_time</span></span><span
-style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
-mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;
-mso-font-kerning:0pt'>£º·µ³ÌÊ±¼ä</span></p>
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'>go_time</span><span style='mso-bidi-font-size:
+10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
+Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>£ºÈ¥³ÌÊ±¼ä</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'>back_time</span><span style='mso-bidi-font-size:
+10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
+Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>£º·µ³ÌÊ±¼ä</span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
 font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
@@ -1199,45 +1315,59 @@ Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>£º½ð¶î¸¡¶
 lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>interval_min</span></span><span
-style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
-mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;
-mso-font-kerning:0pt'>£ºÊ±¼ä¸¡¶¯Çø¼ä£¬µ¥Î»·ÖÖÓ</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>start_date</span></span><span
-style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
-mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;
-mso-font-kerning:0pt'>£º·¢Æ±¿ªÊ¼Ê±¼ä</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
-
-<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>end_date</span></span><span
-style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
-mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;
-mso-font-kerning:0pt'>£º·¢Æ±½áÊøÈÕÆÚ£¬È¡¾öÓÚÄãµÄ±¨ÏúÖÜÆÚ</span><span lang=EN-US
-style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'>interval_min</span><span style='mso-bidi-font-size:
+10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
+Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>£ºÊ±¼ä¸¡¶¯Çø¼ä£¬µ¥Î»·ÖÖÓ</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
 
-<p class=MsoNormal><span class=SpellE><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>skip_weekend</span></span><span
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'>start_date</span><span style='mso-bidi-font-size:
+10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
+Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>£º·¢Æ±¿ªÊ¼Ê±¼ä</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'>end_date</span><span style='mso-bidi-font-size:
+10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
+Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>£º·¢Æ±½áÊøÈÕÆÚ£¬È¡¾öÓÚÄãµÄ±¨ÏúÖÜÆÚ</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'>skip_weekend</span><span style='mso-bidi-font-size:
+10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
+Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>£ºÊÇ·ñÌø¹ýÖÜÄ©£¬ÊÇ£º</span><span
+lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
+ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>true </span><span
 style='mso-bidi-font-size:10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;
 mso-hansi-font-family:Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;
-mso-font-kerning:0pt'>£ºÊÇ·ñÌø¹ýÖÜÄ©£¬ÊÇ£º</span><span lang=EN-US style='mso-bidi-font-size:
-10.5pt;font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:
-ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>true </span><span style='mso-bidi-font-size:
-10.5pt;font-family:ËÎÌå;mso-ascii-font-family:Consolas;mso-hansi-font-family:
-Consolas;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>·ñ£º</span><span
-lang=EN-US style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
-ËÎÌå;mso-bidi-font-family:ËÎÌå;color:#0451A5;mso-font-kerning:0pt'>false</span></p>
+mso-font-kerning:0pt'>·ñ£º</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'>false<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
+color:#0451A5;mso-font-kerning:0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal>µÇÂ¼<span lang=EN-US>powershell</span></p>
+
+<p class=MsoNormal><span lang=EN-US>cd </span>µ½¹¤¾ßÄ¿Â¼ ÀýÈç <span lang=EN-US>cd E:/ BeatPdfTool/bin</span></p>
+
+<p class=MsoNormal>Ö´ÐÐ<span lang=EN-US>python beat_pdf.py</span></p>
+
+<p class=MsoNormal><span lang=EN-US>Pdf</span>ºÍÃ÷Ï¸<span lang=EN-US>excel</span>»áÉú³ÉÔÚ<span
+lang=EN-US>output</span>Ä¿Â¼ÏÂ</p>
 
 </div>
 
