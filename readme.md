@@ -22,16 +22,16 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>ÑóÑî ÞÉ</o:Author>
   <o:LastAuthor>ÑóÑî ÞÉ</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>20</o:TotalTime>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>22</o:TotalTime>
   <o:Created>2019-10-23T15:50:00Z</o:Created>
-  <o:LastSaved>2019-10-24T13:02:00Z</o:LastSaved>
+  <o:LastSaved>2019-10-24T13:04:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>169</o:Words>
-  <o:Characters>964</o:Characters>
+  <o:Characters>966</o:Characters>
   <o:Lines>8</o:Lines>
   <o:Paragraphs>2</o:Paragraphs>
-  <o:CharactersWithSpaces>1131</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>1133</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -969,11 +969,11 @@ text-justify-trim:punctuation'>
  </v:formulas>
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Í¼Æ¬_x0020_1" o:spid="_x0000_i1028" type="#_x0000_t75"
+</v:shapetype><v:shape id="Í¼Æ¬_x0020_1" o:spid="_x0000_i1029" type="#_x0000_t75"
  style='width:415.8pt;height:15.6pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="readme.files/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=554 height=21
-src="readme.files/image002.jpg" v:shapes="Í¼Æ¬_x0020_1"><![endif]></span></p>
+src="readme.files/image008.jpg" v:shapes="Í¼Æ¬_x0020_1"><![endif]></span></p>
 
 <p class=MsoNormal>ÐèÒª°²×°</p>
 
@@ -989,14 +989,21 @@ style='mso-bidi-font-size:10.5pt;font-family:Consolas;mso-fareast-font-family:
 href="https://wkhtmltopdf.org/downloads.html">https://wkhtmltopdf.org/downloads.html</a></span></p>
 
 <p class=MsoNormal>°²×°<span lang=EN-US style='font-family:"Helvetica",sans-serif;
-color:#222222;background:white'>Bleeding Edge</span></p>
+color:#222222;background:white'>Bleeding Edge<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
+ id="Í¼Æ¬_x0020_5" o:spid="_x0000_i1028" type="#_x0000_t75" style='width:5in;
+ height:262.8pt;visibility:visible;mso-wrap-style:square'>
+ <v:imagedata src="readme.files/image009.png" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=480 height=350
+src="readme.files/image010.jpg" v:shapes="Í¼Æ¬_x0020_5"><![endif]></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="Í¼Æ¬_x0020_2" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:415.2pt;
  height:240.6pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="readme.files/image003.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=554 height=321
-src="readme.files/image004.jpg" v:shapes="Í¼Æ¬_x0020_2"><![endif]></span></p>
+src="readme.files/image011.jpg" v:shapes="Í¼Æ¬_x0020_2"><![endif]></span></p>
 
 <p class=MsoNormal>È»ºó´ò¿ª<span lang=EN-US>powershell </span>°²×°<span lang=EN-US>python</span>Ä£¿é</p>
 
@@ -1247,7 +1254,7 @@ color:#A31515;mso-font-kerning:0pt'>\</span><span lang=EN-US style='mso-bidi-fon
  height:81pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="readme.files/image006.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=554 height=108
-src="readme.files/image007.jpg" v:shapes="Í¼Æ¬_x0020_4"><![endif]></span></p>
+src="readme.files/image012.jpg" v:shapes="Í¼Æ¬_x0020_4"><![endif]></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
 font-family:Consolas;mso-fareast-font-family:ËÎÌå;mso-bidi-font-family:ËÎÌå;
