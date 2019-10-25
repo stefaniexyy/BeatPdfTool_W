@@ -44,7 +44,7 @@ for i in range(1,int(interval_1.days)):
     else:
         timeStamp1+=random.randint(0,json_file['interval_min'])*-60
     timeStamp1+=24*3600*(i-1)
-    curr_time1= time.strftime("%d/%m/%Y %H:%M:%S", time.localtime(timeStamp1))
+    curr_time1= time.strftime("%d/%m/%Y %H:%M", time.localtime(timeStamp1))
     curr_time_file=time.strftime("%Y.%m.%d", time.localtime(timeStamp1))
     week=time.localtime(timeStamp1)[6]
     print(week)
@@ -69,7 +69,7 @@ for i in range(1,int(interval_1.days)):
         else:
             timeStamp2+=random.randint(0,json_file['interval_min'])*-60
         timeStamp2+=24*3600*(i-1)
-        curr_time2= time.strftime("%d/%m/%Y %H:%M:%S", time.localtime(timeStamp2))
+        curr_time2= time.strftime("%d/%m/%Y %H:%M", time.localtime(timeStamp2))
         print(curr_time2)
         curr_time_file2=time.strftime("%Y.%m.%d", time.localtime(timeStamp1))
         if json_file['skip_weekend']==True and (week==6 or week==5):

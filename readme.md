@@ -22,16 +22,16 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>洋杨 奚</o:Author>
   <o:LastAuthor>洋杨 奚</o:LastAuthor>
-  <o:Revision>3</o:Revision>
+  <o:Revision>4</o:Revision>
   <o:TotalTime>22</o:TotalTime>
   <o:Created>2019-10-23T15:50:00Z</o:Created>
-  <o:LastSaved>2019-10-24T13:04:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>169</o:Words>
-  <o:Characters>966</o:Characters>
+  <o:LastSaved>2019-10-25T02:03:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>170</o:Words>
+  <o:Characters>973</o:Characters>
   <o:Lines>8</o:Lines>
   <o:Paragraphs>2</o:Paragraphs>
-  <o:CharactersWithSpaces>1133</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>1141</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -42,6 +42,7 @@ w\:* {behavior:url(#default#VML);}
 <link rel=colorSchemeMapping href="readme.files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:View>Print</w:View>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
@@ -694,7 +695,7 @@ w\:* {behavior:url(#default#VML);}
 	mso-font-charset:0;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+	mso-font-signature:3 0 0 0 1 0;}
 @font-face
 	{font-family:等线;
 	panose-1:2 1 6 0 3 1 1 1 1 1;
@@ -747,7 +748,8 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;}
 p.MsoHeader, li.MsoHeader, div.MsoHeader
-	{mso-style-priority:99;
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-link:"页眉 字符";
 	margin:0cm;
 	margin-bottom:.0001pt;
@@ -771,7 +773,8 @@ p.MsoHeader, li.MsoHeader, div.MsoHeader
 	mso-bidi-theme-font:minor-bidi;
 	mso-font-kerning:1.0pt;}
 p.MsoFooter, li.MsoFooter, div.MsoFooter
-	{mso-style-priority:99;
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
 	mso-style-link:"页脚 字符";
 	margin:0cm;
 	margin-bottom:.0001pt;
@@ -836,6 +839,7 @@ p.msonormal0, li.msonormal0, div.msonormal0
 	mso-bidi-font-family:宋体;}
 span.a
 	{mso-style-name:"页眉 字符";
+	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
@@ -852,6 +856,7 @@ span.a
 	mso-font-kerning:1.0pt;}
 span.a0
 	{mso-style-name:"页脚 字符";
+	mso-style-noshow:yes;
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
@@ -973,7 +978,7 @@ text-justify-trim:punctuation'>
  style='width:415.8pt;height:15.6pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="readme.files/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=554 height=21
-src="readme.files/image008.jpg" v:shapes="图片_x0020_1"><![endif]></span></p>
+src="readme.files/image002.jpg" v:shapes="图片_x0020_1"><![endif]></span></p>
 
 <p class=MsoNormal>需要安装</p>
 
@@ -996,14 +1001,14 @@ color:#222222;background:white'>Bleeding Edge<o:p></o:p></span></p>
  height:262.8pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="readme.files/image009.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=480 height=350
-src="readme.files/image010.jpg" v:shapes="图片_x0020_5"><![endif]></span></p>
+src="readme.files/image004.jpg" v:shapes="图片_x0020_5"><![endif]></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="图片_x0020_2" o:spid="_x0000_i1027" type="#_x0000_t75" style='width:415.2pt;
  height:240.6pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="readme.files/image003.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=554 height=321
-src="readme.files/image011.jpg" v:shapes="图片_x0020_2"><![endif]></span></p>
+src="readme.files/image007.jpg" v:shapes="图片_x0020_2"><![endif]></span></p>
 
 <p class=MsoNormal>然后打开<span lang=EN-US>powershell </span>安装<span lang=EN-US>python</span>模块</p>
 
@@ -1254,7 +1259,7 @@ color:#A31515;mso-font-kerning:0pt'>\</span><span lang=EN-US style='mso-bidi-fon
  height:81pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="readme.files/image006.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=554 height=108
-src="readme.files/image012.jpg" v:shapes="图片_x0020_4"><![endif]></span></p>
+src="readme.files/image013.jpg" v:shapes="图片_x0020_4"><![endif]></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
 font-family:Consolas;mso-fareast-font-family:宋体;mso-bidi-font-family:宋体;
@@ -1263,9 +1268,9 @@ color:#0451A5;mso-font-kerning:0pt'>start_address</span><span style='mso-bidi-fo
 Consolas;mso-bidi-font-family:宋体;color:#0451A5;mso-font-kerning:0pt'>：</span><span
 style='mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Consolas;
 mso-hansi-font-family:Consolas;mso-bidi-font-family:宋体;color:#A31515;
-mso-font-kerning:0pt'>住址</span><span lang=EN-US style='mso-bidi-font-size:10.5pt;
-font-family:Consolas;mso-fareast-font-family:宋体;mso-bidi-font-family:宋体;
-color:#A31515;mso-font-kerning:0pt'><o:p></o:p></span></p>
+mso-font-kerning:0pt'>住址，不要有西语字符</span><span lang=EN-US style='mso-bidi-font-size:
+10.5pt;font-family:Consolas;mso-fareast-font-family:宋体;mso-bidi-font-family:
+宋体;color:#A31515;mso-font-kerning:0pt'><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
 font-family:Consolas;mso-fareast-font-family:宋体;mso-bidi-font-family:宋体;
@@ -1369,7 +1374,8 @@ color:#0451A5;mso-font-kerning:0pt'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal>登录<span lang=EN-US>powershell</span></p>
 
-<p class=MsoNormal><span lang=EN-US>cd </span>到工具目录 例如 <span lang=EN-US>cd E:/ BeatPdfTool/bin</span></p>
+<p class=MsoNormal><span lang=EN-US>cd </span>到工具目录 例如<span lang=EN-US> cd E:/
+BeatPdfTool/bin</span></p>
 
 <p class=MsoNormal>执行<span lang=EN-US>python beat_pdf.py</span></p>
 
