@@ -1,4 +1,5 @@
 import random
+import math
 
 spain_name=[]
 spain_name.append('Adelaida')
@@ -221,7 +222,7 @@ class beat_info:
         fifth=str(random.randint(0,9))
         sixth=str(random.randint(0,9))
         seventh=str(random.randint(0,9))
-        car_no=first+second+third+forth+fifth+sixth+seventh
+        car_no=first+second+third+forth+fifth+sixth
         return car_no
     def car(self):
         car_type[random.randint(0,49)]
@@ -236,6 +237,7 @@ class beat_payment:
         else:
             pay_amt=amount+interval
         len_str=len(str(pay_amt))
+        pay_amt=math.ceil(pay_amt/10)*10
         if len_str>3:
             pay_amt=str(pay_amt)[:-3]+','+str(pay_amt)[-3:]
         return pay_amt
