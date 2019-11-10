@@ -7,7 +7,7 @@
     "back_amt": 3000,
     "go_time": "08:20",
     "back_time": "23:29",
-    "interval": 50,
+    "interval": 300,
     "interval_min": 40,
     "start_date": "20190401",
     "end_date": "20190922",

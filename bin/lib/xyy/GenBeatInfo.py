@@ -231,7 +231,7 @@ class beat_info:
 
 class beat_payment:
     def payment_format(self,amount,interval):
-        interval=random.randint(0,interval)
+        interval=random.randint(0,interval//50)*50
         if random.randint(0,1)==1:
             pay_amt=amount+interval*-1
         else:
